@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "river-bedrock-244119",
+  "private_key_id": "2ce1f540ce962e2c9999e89a999611b392858495",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQC0ZgPK+7DsLS7T\nPrH7WFD0DNi7oXfdwR3/eCiEfOedtaPyU2L1F05tXcUL6Hi/Xeb3uUqKdmp9cscu\nbwTwwK1kve9NKRz752HfuniDe3F7aenCs2yS98aq/jTmbY7ENkFgrA7e0M95CTG5\nbdRJXcWD+npi3+3Z2yIaPunBoRIbwMFJ322udq9ec2MwtcbSpJkPZmG8FFwQo9f2\nkeSqamxD6NUc1ZtSSbnam49URYxfs+XHzaWUMXRxKPnXbskzZNnIG6anH4dmu2Vh\nOmKEJacWFjOT9/gS/C9nFAViV1j/frzuyU0z7QlY5bXGpS0q4Mp+CblYlViIhQgn\nN7fbvMQ7AgMBAAECggEAQ2w1UrILB9pDO/SctKHnb681ebr5f8njmk2gZxP/xPPU\nWIdN3uhdCYcYVEEIkA1ae4+nCmUDm+tAAly/7fM1WweZ3q7VBFkQPXwF+q4yVbva\nAEjq9Wrht5rWzqB30WGtwaHM1P4Z7NTA3trrkpgXcCI3h6jFzryV3FVTLGk0yWX6\nEszwgXr089dT1MiXvzTY6PasyMO8pcqSVZ9dneox77nv2rhKRBBtT3OJ6XJ+AL8C\ngoJTmNx+hMa4QRD/2K21WKhzheYOTJCZU5IJcmDb5f0IYlNiiXaFMW3tXeYkn9W/\nLce3WjFybRP5NfMekqGPvGl1RdHV9ei+zBgKWNOsAQKBgQDq1S2OFqr5Nj+4CAXi\nyeJh0AwD6z5LMHWweOD47fhff3zix/pcta4XSg7Pircl6tVG2Z97rmjVSxbVK7LZ\nXyfkzThfPtgU4mzY++ugMnAZujBLmgGTKo0RE889t4ymNTJb2KtQo2yo/rdhctnc\n+HrURddgf70bbTVYgUdk1xfxAQKBgQDEqMD5Abeegd+EJxK3CDAk1XZbuzeLCckb\ngvDfDjMMrzouRk5uXx/v6EVp4uL1e7xzuo/XtxXSvsFCKtUoRU65bF9roPOlEyuE\nGG7K9/1vWq0Lv4/K+ARGpdhTksIkwQjPVYxykDNSN1+IQFnTMvYVrc5JjbUaWPfN\nXRUxVY85OwKBgClOplzAEAMWT88HWkGyUWfzOKnXz3VaaNlJ6gjfkzj5K/aYRqnY\nK29dT42iUOUSkcGMtkkDPN2H/9Qvg55I5rOQhcH7Q/cofQ0OAzyCosVjwusJhA1n\nBrliSqoIh20VHm6ZhkkA9jQj2g4CLeB4tOJyBpiq35DbfO68jtpmG4gBAoGAUsye\nWvjfH4yc2B4/YfK/mnKJn7umehLHqp6p3bAzzC5mt58AXLYOU0sfFqLhXewX/z3Y\nXEGIna+U3M/96TOtHqLDViRxENqOYtKKq0hYWy75Vs3zs8hSvJANEbrjpOflVq41\nMPMHuKD5xvsZFrQJKj2AcjWIv6wfwUZkqt3ULIsCgYAtzTsA1MQue1n1v4Y8y3HY\nSZ9Pf+otcZdpleU/AKI+FDvcq9Maao9M9oKTIz/7aHW+I2odjfX3ao51UuoGWfJi\niAPH4AYk0y1RV0hPSZtwU0+6dyw6yuQEaEF+hXn6ywYnsbwMRV1ZyReHnmNmzvG5\n4vgP29fQvnKk1yWip1Gz/Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "speechtotext@river-bedrock-244119.iam.gserviceaccount.com",
+  "client_id": "115361280682031269031",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/speechtotext%40river-bedrock-244119.iam.gserviceaccount.com"
+}
